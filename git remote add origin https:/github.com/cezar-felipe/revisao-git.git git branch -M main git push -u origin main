@@ -1,0 +1,4 @@
+git remote add origin https://github.com/cezar-felipe/revisao-git.git
+git branch -M main
+git pull https://github.com/cezar-felipe/revisao-git.git main
+git push -u origin main
